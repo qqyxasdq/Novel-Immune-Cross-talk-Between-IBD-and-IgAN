@@ -1,0 +1,59 @@
+Key TF	Description	# of overlapped genes	P value	Q value	List of overlapped genes
+RELA	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	22	2.05e-21	6.86e-20	SAA1,CCL19,CXCL10,BCL2A1,MMP9,CXCL8,IL1B,CCL20,CYP3A4,CCL2,NOS2,CXCL2,PLA2G2A,TIMP1,OLFM4,CCL11,MMP1,CXCL5,MMP3,LCN2,ABCG2,CXCL1
+NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	22	2.37e-21	6.86e-20	MMP3,NOS2,ABCG2,PTGDS,MMP1,IL1B,TIMP1,CXCL8,CXCL10,MMP9,BCL2A1,CCL20,CXCL5,LCN2,CCL11,PLA2G2A,CXCL1,CCL19,OLFM4,SAA1,CXCL2,CCL2
+STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	11	2.27e-11	4.39e-10	MMP7,TIMP1,MMP9,CCL11,CHI3L1,SAA1,MMP3,MMP10,MMP1,CCL2,CXCL8
+NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	6	1.34e-10	1.95e-09	MMP3,NOS2,IL1B,MMP1,CXCL8,MMP9
+STAT1	signal transducer and activator of transcription 1, 91kDa	7	7.14e-08	8.28e-07	MMP9,CCL2,TIMP1,LCN2,NOS2,IL1B,CXCL10
+FOS	FBJ murine osteosarcoma viral oncogene homolog	6	1.58e-07	1.52e-06	MMP9,MMP7,NOS2,MMP3,MMP1,CXCL8
+ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	5	2.36e-07	1.79e-06	MMP1,CXCL8,ANPEP,MMP3,MMP9
+JUN	jun proto-oncogene	8	2.46e-07	1.79e-06	IL1B,MMP7,MMP9,CCL2,CXCL8,MMP3,NOS2,MMP1
+SP1	Sp1 transcription factor	12	7.64e-07	4.92e-06	HSD17B2,CCL2,SERPINB5,CXCL5,MNDA,TIMP1,CYP3A4,CXCL1,MMP9,ABCG2,CHI3L1,PCK1
+ETS1	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)	6	1.12e-06	6.5e-06	ANPEP,MMP10,MMP1,MMP3,TMEM158,MMP9
+IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	3	1.51e-06	7.96e-06	CXCL8,MMP9,NOS2
+CEBPA	CCAAT/enhancer binding protein (C/EBP), alpha	5	2.58e-06	1.25e-05	S100A9,SAA1,CYP3A4,PCK1,CCL2
+CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	5	5.83e-06	2.6e-05	CXCL8,SAA1,IL1B,MMP1,S100A9
+SPI1	spleen focus forming virus (SFFV) proviral integration oncogene spi1	5	6.86e-06	2.84e-05	IL1B,MNDA,CCL2,MS4A1,CTSK
+SPDEF	SAM pointed domain containing ets transcription factor	3	8.95e-06	3.46e-05	SERPINB5,MMP9,SPINK4
+HDAC1	histone deacetylase 1	5	1.34e-05	4.86e-05	CYP3A4,MMP9,SERPINB5,CXCL8,BCL2A1
+CEBPD	CCAAT/enhancer binding protein (C/EBP), delta	3	4.96e-05	0.000169	C3,CCL20,CXCL1
+XBP1	X-box binding protein 1	3	7.03e-05	0.000226	CCL2,NOS2,CXCL8
+REL	v-rel reticuloendotheliosis viral oncogene homolog (avian)	3	0.000111	0.000338	BCL2A1,CCL2,IL1B
+ELF4	E74-like factor 4 (ets domain transcription factor)	2	0.00018	0.000499	MMP9,CXCL8
+NR4A2	nuclear receptor subfamily 4, group A, member 2	2	0.00018	0.000499	MMP1,CXCL8
+NCOA3	nuclear receptor coactivator 3	2	0.000377	0.000994	MMP10,MMP7
+ATF4	activating transcription factor 4 (tax-responsive enhancer element B67)	3	0.000452	0.00114	CXCL8,S100P,CCL2
+MAZ	MYC-associated zinc finger protein (purine-binding transcription factor)	2	0.000501	0.00121	MMP9,MMP1
+SP2	Sp2 transcription factor	2	0.000643	0.00143	HSD17B2,MMP9
+ZNF148	zinc finger protein 148	2	0.000643	0.00143	CXCL5,MMP3
+STAT2	signal transducer and activator of transcription 2, 113kDa	2	0.000976	0.0021	NOS2,CCL2
+FOSL2	FOS-like antigen 2	2	0.00184	0.00369	NOS2,TIMP1
+IRF3	interferon regulatory factor 3	2	0.00184	0.00369	CXCL10,CCL2
+NFE2L2	nuclear factor (erythroid-derived 2)-like 2	2	0.0021	0.00406	CXCL8,GSTA1
+HMGA1	high mobility group AT-hook 1	2	0.00237	0.00444	CXCL1,IL1B
+FOXA2	forkhead box A2	2	0.00266	0.00483	GCG,MMP7
+PPARG	peroxisome proliferator-activated receptor gamma	3	0.00287	0.00504	ABCG2,MMP9,MMP1
+KLF6	Kruppel-like factor 6	2	0.00329	0.00545	MMP9,NOS2
+RXRA	retinoid X receptor, alpha	2	0.00329	0.00545	CYP3A4,HSD17B2
+PAX5	paired box 5	2	0.00363	0.00584	MMP1,TIMP1
+AHR	aryl hydrocarbon receptor	2	0.00398	0.00607	ABCG2,IL1B
+ETV4	ets variant 4	2	0.00398	0.00607	MMP7,MMP1
+MTA1	metastasis associated 1	2	0.00472	0.00703	MMP9,NOS2
+TCF4	transcription factor 4	2	0.00512	0.00743	DEFA6,DEFA5
+MITF	microphthalmia-associated transcription factor	2	0.00553	0.00764	CTSK,BCL2A1
+NR1I2	nuclear receptor subfamily 1, group I, member 2	2	0.00553	0.00764	CCL2,CYP3A4
+HDAC2	histone deacetylase 2	2	0.00596	0.00804	CXCL8,CCL2
+RUNX3	runt-related transcription factor 3	2	0.00732	0.00965	TIMP1,MMP9
+HSF1	heat shock transcription factor 1	2	0.00781	0.0101	IL1B,GUCA2B
+JUND	jun D proto-oncogene	2	0.00934	0.0118	TIMP1,NOS2
+TWIST1	twist basic helix-loop-helix transcription factor 1	2	0.00988	0.0122	TIMP1,MMP1
+STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	2	0.0104	0.0126	CCL11,CXCL8
+GATA3	GATA binding protein 3	2	0.0116	0.0137	MMP1,CXCL1
+VDR	vitamin D (1,25- dihydroxyvitamin D3) receptor	2	0.014	0.0163	CYP3A4,CXCL8
+HNF4A	hepatocyte nuclear factor 4, alpha	2	0.016	0.0182	MMP7,CYP3A4
+SIRT1	sirtuin 1	2	0.0181	0.0202	IL1B,MMP9
+IRF1	interferon regulatory factor 1	2	0.0203	0.0222	CXCL10,MMP9
+EP300	E1A binding protein p300	2	0.0241	0.0259	MMP9,CXCL8
+USF1	upstream transcription factor 1	2	0.0318	0.0335	SLC16A1,PTGDS
+YY1	YY1 transcription factor	2	0.0583	0.0604	IL1B,NOS2
+SP3	Sp3 transcription factor	2	0.0849	0.0864	HSD17B2,TIMP1
+E2F1	E2F transcription factor 1	2	0.113	0.113	IL1B,SERPINB5
